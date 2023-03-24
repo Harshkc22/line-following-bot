@@ -8,3 +8,8 @@ Here is the Circuit Diagram and Code for the bot.
 * DC Battery 7-12W
 * L298N Motor Driver
 * 2 TT Gear Motors
+
+## Our team -
+* Harsh Kumar Chaudhary
+* Himanshu shekhar
+* Arin Dhariwal
